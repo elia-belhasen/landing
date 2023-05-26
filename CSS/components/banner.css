@@ -1,0 +1,22 @@
+.banner {
+  background-image: url(../../images/background.jpeg);
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 70px;
+  line-height: 2;
+}
+
+.slogan h1 {
+  font-size: 15px; 
+  margin-bottom: 100px;
+  font-weight: lighter;
+  text-align: center;
+  opacity: 0.9;
+  line-height: 2;
+}
+

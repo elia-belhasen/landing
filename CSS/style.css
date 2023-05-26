@@ -1,0 +1,36 @@
+/* Importing Google fonts */
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Lora&display=swap");
+
+/* Importing component files */
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/collection.css");
+
+/* General style rules for fonts and colors */
+
+body {
+  font-family: 'inter', serif;
+  color: black;
+  font-size: 18px;
+  margin: 0;
+  padding: 10;
+  background-color: #957777;
+}
+
+h1, h2 {
+  font-family: 'lora', sans-serif;
+  color: whitesmoke;
+  font-weight: bold;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+div{
+  text-align: center;
+}
